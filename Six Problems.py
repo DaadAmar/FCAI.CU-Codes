@@ -1,11 +1,11 @@
+#file : Six Problems
 #program: This Python program contains several interactive programs and a menu to choose among them. 
-          #it provides a convenient way for users to interact with various utility programs
-          #ranging from calculating grades, encrypting messages, and trying some mathematical concepts.
-
-#Authors: 
-#         Daad Amar Osman - 20230779 | problems 3 and 4
-#         Lina Mahmoud Ahmed - 20230780 | prblems 2 and 5
-#         Asrar Abdelgaber Osman - 20230783 | problems 1 and 6
+#         it provides a convenient way for users to interact with various utility programs
+#         ranging from calculating grades, encrypting messages, and trying some mathematical concepts.
+# Authors: 
+#         Daad Amar Osman  | problems 3 and 4
+#         Lina Mahmoud Ahmed  | prblems 2 and 5
+#         Asrar Abdelgaber Osman | problems 1 and 6
           
 #version: version 6
 #Date: February 25th ,2024
