@@ -1,9 +1,10 @@
-# File: CS112_A1_T2_1_20230779.py
+# File: The 100 game
 # program: A two player game in python where the goal
 #         is to reach 100. Each player chooses from 0-10.
 #         The first player to reach 100 wins.
 # Author: Daad Amar Osman
-# ID: 20230779
+# Date created : Feb 19,2024
+
 
 def main():
     # Welcome Message for the players
