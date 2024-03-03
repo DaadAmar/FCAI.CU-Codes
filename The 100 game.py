@@ -4,6 +4,7 @@
 #         The first player to reach 100 wins.
 # Author: Daad Amar Osman
 # Date created : Feb 19,2024
+# version : 3
 
 
 def main():
