@@ -1,3 +1,11 @@
+// File: The 100 game
+// program: A two player game in C++ where the goal
+//         is to reach 100. Each player chooses from 0-10.
+//         The first player to reach 100 wins.
+// Author: Daad Amar Osman
+// Date created : Feb 19,2024
+// version : 2.0
+
 #include <iostream>
 using namespace std;
 int main() {
